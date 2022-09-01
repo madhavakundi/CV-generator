@@ -1,0 +1,25 @@
+body {
+    background-color: #d9f1e4;
+  }
+  #cv-form {
+    background-color: #f0f7b5;
+     margin-top: 10px; 
+  }
+  #cv-template {
+    background-color: #b3d8e8;
+    display: none;
+  }
+  .myimg {
+    height: 100px;
+    border-radius: 50%;
+    width: 150px;
+  }
+  
+  .background {
+    background-color: rgb(209, 201, 201);
+  }
+  p{
+    
+    font-size: 1.3em;
+    width: 100%;
+}
